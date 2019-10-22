@@ -1,0 +1,30 @@
+{
+  "title" : "中级软件设计师考试学习笔记",
+  "author" : "LuoHong",
+  "description" : "中级软件设计师考试学习笔记",
+  "language" : "zh-hans",
+  "links" : {
+    "sidebar" : {
+      "主页" : "https://ruke.site"
+    }
+  },
+  "plugins": [
+    "-sharing", "back-to-top-button","chapter-fold","expandable-chapters-small","code","insert-logo","emphasize","donate","flexible-alerts","pageview-count","lightbox","custom-favicon","hide-element"],
+  "pluginsConfig": {
+    "insert-logo": {
+      "url": "https://blog.ruke.site/images/favicon-32x32-next.png"
+    },
+    "donate": {
+      "wechat": "https://blog.ruke.site/images/pay_wechat.png",
+      "alipay": "https://blog.ruke.site/images/pay_aipay.png",
+      "title": "",
+      "button": "赏",
+      "alipayText": "支付宝打赏",
+      "wechatText": "微信打赏"
+    },
+    "favicon": "https://blog.ruke.site/images/favicon-16x16-next.png",
+    "hide-element": {
+      "elements": [".gitbook-link"]
+    }
+  }
+}
